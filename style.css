@@ -1,0 +1,72 @@
+.fuck{
+  display: flex;
+  background-color:#32496e;
+  color: white;
+  height: 70px;
+  width:100%;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 10px;
+  border-color: grey;
+  border-width: 2px;
+  margin: 30px 10px 150px 10px ;
+  opacity:80%;
+  font-size: 30px;
+  
+}
+button{
+  background-color: #32496e;
+  color: white;
+  border-radius: 50%;
+  border-color:#32496e;
+  border-width: 4px;
+  height: 150px;
+  width: 93px;
+  justify-content: center;
+  padding: 2px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.body{
+  background-color:#32496e;
+}
+.fuch{
+  display: flex;
+  background-color: #32496e;
+  color: #32496e;
+  height: 250px;
+  width:100%;
+  align-items: center;
+  justify-content: space-evenly;
+  border-radius: 10px;
+  border-color: #32496e;
+  border-width: 2px;
+  margin: 10px 10px 150px 10px ;
+  
+}
+body{
+   background-image: url("front.jpg");
+   background-color:#32496e;
+  background-attachment: fixed;
+  background-size: 100%; 
+
+}
+.lay{
+  margin : 31% 44%;
+  background-color: #32496e;
+  color: white;
+  border-radius: 10%;
+  height: 50px;
+  width: 140px;
+  padding: 0px 0px 0px 0px;
+  font-size: 30px;
+  font-weight: bold;
+  
+}
+#stone{
+  opacity:80%;
+}
+
+ 
+  
+  
